@@ -1,4 +1,4 @@
-# Hotel Bill Generation System
+### Hotel Bill Generation System
 
 A Java-based console application to calculate hotel bills based on customer stay details.  
 The project follows proper package structure with entity, service, main, and exception layers.
